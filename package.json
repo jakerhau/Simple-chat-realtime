@@ -9,6 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@aws-amplify/api-graphql": "^4.8.1",
+    "@aws-amplify/pubsub": "^6.1.64",
+    "@aws-amplify/ui-react": "^6.13.1",
+    "@aws-appsync/utils": "^2.0.3",
+    "@aws-sdk/client-dynamodb": "^3.931.0",
+    "@aws-sdk/util-dynamodb": "^3.931.0",
+    "aws-amplify": "^6.15.8",
     "next": "16.0.3",
     "react": "19.2.0",
     "react-dom": "19.2.0"
